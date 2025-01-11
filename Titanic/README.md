@@ -154,13 +154,3 @@ Score: 0.78708
 ### Print Screen da Submissão
 
 ![Submissão no Kaggle](./submission.png)
-
----
-
-## ⚖️ Observações
-
-1. Documente todas as etapas do pipeline no notebook com explicações claras.
-2. Certifique-se de que o código está organizado e bem comentado.
-3. Use boas práticas de programação para facilitar a reprodutibilidade do projeto.
-
-🚀 Boa sorte com a atividade! 😊
