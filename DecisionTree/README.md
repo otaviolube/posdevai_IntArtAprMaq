@@ -102,5 +102,5 @@ def melhorCaracteristica_novo(X, y):
 
 ---
 
-🚀 **Link para o Notebook no GitHub:** [https://github.com/otaviolube/posdevai_IntArtAprMaq](https://github.com/otaviolube/posdevai_IntArtAprMaq)
+🚀 **Link para o Notebook no GitHub:** [https://github.com/otaviolube/posdevai_IntArtAprMaq](https://github.com/otaviolube/posdevai_IntArtAprMaq/tree/main/DecisionTree)
 
